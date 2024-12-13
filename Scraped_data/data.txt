@@ -1,0 +1,33 @@
+F
+FYP-NUML
+/
+Default project
+Playground
+Dashboard
+Docs
+API reference
+DASHBOARD
+Chat Completions
+Assistants
+Batches
+Evaluations
+Fine-tuning
+Storage
+Usage
+API keys
+Cookbook
+Forum
+Help
+API keys
+Create new secret key
+As an owner of this project, you can view and manage all API keys in this project.
+Do not share your API key with others or expose it in the browser or other client-side code. To protect your account's security, OpenAI may automatically disable any API key that has leaked publicly.
+View usage per API key on the Usage page.
+NAME	SECRET KEY	CREATED	LAST USED 	CREATED BY	PERMISSIONS
+FYPapi	
+sk-...z4UA
+	Dec 5, 2024	Dec 5, 2024	Ubaid Ur Rehman	All	
+
+FYP	
+sk-...MR8A
+	Dec 4, 2024	Dec 4, 2024	Ubaid Ur Rehman	All	
