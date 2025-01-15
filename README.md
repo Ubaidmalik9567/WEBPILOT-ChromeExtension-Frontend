@@ -2,7 +2,7 @@
 
 **Conversify.ai** is a Chrome extension chatbot designed to make exploring large amounts of content a breeze—whether it’s websites, blogs, research articles, YouTube videos, or PDF files. Think of it as your personal assistant, like ChatGPT, but specialized in analyzing and summarizing massive content instantly.
 
-**Note:** Previously named *Webpilot*, this project is now *Conversify.ai* to better reflect its purpose.
+**Note:** Previously named *Webpilot*, this project is now *Conversify.ai* to better reflect its purpose.The frontend repository is public, while the backend is private."
 
 ---
 
