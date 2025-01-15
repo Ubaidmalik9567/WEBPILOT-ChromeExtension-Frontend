@@ -130,7 +130,7 @@ async function processPage() {
             text: "PDF file"
         };
         
-        await fetch('http://ec2-13-60-88-112.eu-north-1.compute.amazonaws.com:5000/process_page', {
+        await fetch('http://ec2-13-48-55-216.eu-north-1.compute.amazonaws.com:5000/process_page', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
@@ -157,7 +157,7 @@ async function processPage() {
     };
 
     // Send the data (URL + page text) to the Flask server
-    await fetch('http://ec2-13-60-88-112.eu-north-1.compute.amazonaws.com:5000/process_page', {
+    await fetch('http://ec2-13-48-55-216.eu-north-1.compute.amazonaws.com:5000/process_page', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
